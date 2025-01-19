@@ -1,6 +1,6 @@
 <h1 align="center">SOUNDMORPH 🎛</h1>
 
-<img src="./readme/banner.webp></img>
+<img src="./readme/banner.png></img>
 
 <h3>Introducción</h3>
 <p text-align="justify">An effects vst plugin.</p>
