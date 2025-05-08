@@ -1,0 +1,1 @@
+// Graphic Interface for each effect

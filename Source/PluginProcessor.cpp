@@ -1,0 +1,1 @@
+// Effect logic is implemented in the `PluginProcessor.h` and `PluginProcessor.cpp` files.

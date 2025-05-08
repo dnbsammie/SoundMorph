@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="./readme/banner.png"></img>
+<img src="./banner.png" width="100%"></img>
 <h1 align="center">SOUNDMORPH 🎛</h1>
 <h3 align="center">An effects and sound processing vst plugin.</h3>
 
